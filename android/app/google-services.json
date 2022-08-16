@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "615743172572",
+    "project_id": "eclipse-9b7ec",
+    "storage_bucket": "eclipse-9b7ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615743172572:android:10ea24126f259e570de919",
+        "android_client_info": {
+          "package_name": "com.hardini.eclipse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615743172572-f5fc1giljogd081pnpaes2rml88ou7ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvJQnaIQiE2BgyQ4tNPF80ImcF7wpzwxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615743172572-f5fc1giljogd081pnpaes2rml88ou7ae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615743172572-q014u6pu5kr914jg167n9iib4f0bkqnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hardini.eclipse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
